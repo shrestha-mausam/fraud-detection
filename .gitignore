@@ -2,3 +2,4 @@ fraud_detection_env/
 .DS_Store
 .vscode/
 creditcard.csv
+*.pkl
